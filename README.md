@@ -1,7 +1,7 @@
 
 # HR Analysis Dashboard (1989 - 2022)
 
-![Project2 - HR Analysis_page-0001](https://github.com/user-attachments/assets/13afcc92-e3bd-40c2-b76d-c58d116f393b)
+![Project2 - HR Analysis_page-0001](https://github.com/user-attachments/assets/915434cc-2f4f-4dcf-93d9-22c730994b90)
 ![Project2 - HR Analysis_page-0002](https://github.com/user-attachments/assets/d3867845-07bc-4215-9d36-a78db6fbeea8)
 ![Project2 - HR Analysis_page-0003](https://github.com/user-attachments/assets/8809af9f-593a-49af-9075-c8a75cee1088)
 ![Project2 - HR Analysis_page-0004](https://github.com/user-attachments/assets/0e684277-dbc5-4a95-b46b-0cbc2598bb1c)
