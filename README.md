@@ -1,6 +1,16 @@
 
 # HR Analysis Dashboard (1989 - 2022)
 
+![Project2 - HR Analysis_page-0001](https://github.com/user-attachments/assets/13afcc92-e3bd-40c2-b76d-c58d116f393b)
+![Project2 - HR Analysis_page-0002](https://github.com/user-attachments/assets/d3867845-07bc-4215-9d36-a78db6fbeea8)
+![Project2 - HR Analysis_page-0003](https://github.com/user-attachments/assets/8809af9f-593a-49af-9075-c8a75cee1088)
+![Project2 - HR Analysis_page-0004](https://github.com/user-attachments/assets/0e684277-dbc5-4a95-b46b-0cbc2598bb1c)
+![Project2 - HR Analysis_page-0005](https://github.com/user-attachments/assets/d9a266e5-2e95-43c0-b547-d0cadc6858db)
+![Project2 - HR Analysis_page-0006](https://github.com/user-attachments/assets/87781722-3b03-4de1-adfd-d71f29bff90b)
+![Project2 - HR Analysis_page-0007](https://github.com/user-attachments/assets/4d806944-2c8b-4fa3-8490-d9fae455e71a)
+![Project2 - HR Analysis_page-0008](https://github.com/user-attachments/assets/1c56bad2-94f9-441b-8c2d-3cc39120757e)
+
+
 ## Project Objectives
 - The goal of this project was to create an HR analytics dashboard to track key **employee metrics**, analyze **turnover trends**, and understand **salary distribution** across branches and cost centers. 
 - The insights aimed to inform better workforce management and **improve retention strategies**.
