@@ -43,13 +43,13 @@
 - The Alumco Projects branch had the highest average salary, while Fleet/Warehouse had the lowest.
 ## Key Questions Explored
 1. What is the distribution of employees across different branches and cost centers?
-   - Civil Projects have the most employees, accounting for 57.4% of the total workforce.
+   - Civil Projects have the most employees, accounting for 57.4% of the workforce.
 2. Which age group and nationality have the highest turnover?
-  - The 31-45 age group had the highest turnover rate (11.17%), while Pakistan had the highest turnover rate by nationality (3.48%).
-3. Which branches have the highest salary costs?
-  - The Alumco Projects branch had the highest salary per employee, averaging 9.7K.
+   - The 31-45 age group had the highest turnover rate (11.17%), while Pakistan had the highest turnover rate by nationality (3.48%).
+4. Which branches have the highest salary costs?
+   - The Alumco Projects branch had the highest salary per employee, averaging 9.7K.
 4. How does the tenure differ across branches and nationalities?
-  - Employees in Turkey had the highest average tenure (18 years), and Marine Projects had a tenure of 9.9 years.
+   - Employees in Turkey had the highest average tenure (18 years), and Marine Projects had 9.9 years.
 ## Challenges and Limitations
 1. Data Quality Issues:
    - Missing or incorrect values for gender and birthdate required manual correction.
